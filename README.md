@@ -1,4 +1,4 @@
-# 🧠 Feedforward Neural Network Engine — From Scratch
+# 🧠 Feedforward Neural Network Engine From Scratch
 
 > A fully functional neural network built with **NumPy only** — no PyTorch, no TensorFlow, no autograd. Every component derived and implemented by hand: forward propagation, backpropagation, He initialization, SGD, and Adam. Trained on MNIST and benchmarked against sklearn and Keras to validate correctness.
 
